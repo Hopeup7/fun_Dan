@@ -1,0 +1,14 @@
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários e backups
+*.log
+*.tmp
+*~
+*.swp
+*.swo
