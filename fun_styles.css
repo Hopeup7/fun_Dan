@@ -1,6 +1,6 @@
                                                                           /* 🔷 BANNER COM IMAGEM DE FUNDO */
 .banner {
-  background-image: url('fun_assets/IMAGENS/banner/foto_logo.jpg');
+  background-image: url('fun_front/fun_assets/IMAGENS/banner/foto_logo.jpg');
   background-size: cover;
   background-position: center 30%;
   background-repeat: no-repeat;
